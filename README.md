@@ -16,8 +16,8 @@
 
 <html>
    <body>
-      Click the following button to start navigating:<br>
-      <a href="https://nbviewer.jupyter.org/github/panayiotiska/Jupyter-Sentiment-Analysis-Video-games-reviews/blob/master/Introduction.ipynb">
+      <br>Click the following button to start navigating:<br>
+      <a href="https://nbviewer.jupyter.org/github/panayiotiska/Jupyter-Sentiment-Analysis-Video-games-reviews/blob/master/Index.ipynb">
          <img alt="start" src="figures/button_start-navigation.jpg">
       </a>
    </body>
