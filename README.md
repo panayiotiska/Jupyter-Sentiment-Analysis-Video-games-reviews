@@ -15,9 +15,6 @@
 -->
 
 <html>
-   <head>
-      <title>HTML Image as link</title>
-   </head>
    <body>
       Click the following button to start navigating:<br>
       <a href="https://nbviewer.jupyter.org/github/panayiotiska/Jupyter-Sentiment-Analysis-Video-games-reviews/blob/master/Introduction.ipynb">
